@@ -1,0 +1,5 @@
+classes=3
+train=/content/gdrive/MyDrive/yolo_space/mask_try/yolo_download/Yolo2Pascal-annotation-conversion/pascal2yolo/train/train.txt
+valid=/content/gdrive/MyDrive/yolo_space/mask_try/yolo_download/Yolo2Pascal-annotation-conversion/pascal2yolo/dev/dev.txt
+names=/content/gdrive/MyDrive/yolo_space/mask_try/yolo_download/prepare/darknet/data/mask.names
+backup=backup/

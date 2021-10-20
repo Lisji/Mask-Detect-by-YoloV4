@@ -1,0 +1,4 @@
+1、ai_1.py 串接鏡頭、發出警示音效、顯示辨識結果
+2、mask.names、yolov4-mask.cfg、yolov4-mask.weights 模型所需檔案
+3、Mask.ipynb 訓練模型
+
