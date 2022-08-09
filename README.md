@@ -1,4 +1,4 @@
-# Mask_Detect_YOLOv4
+# Mask Detect by YoloV4
 
 利用Google開發之Colab一步步地訓練YOLOv4影像辨識模型+利用Python各種套件連接模型，以達到辨識是否戴口罩、正確配戴口罩，三種分類，最後並給予警示。<br><br>
 [檔案說明]<br>
